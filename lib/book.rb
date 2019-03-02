@@ -15,7 +15,7 @@ def turn_page(num)
 end
 
 def turn_page
-  
+
 end
 
 end
