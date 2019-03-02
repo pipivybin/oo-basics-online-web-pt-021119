@@ -4,6 +4,10 @@ class Book
     @title = title
 end
 
+  def title
+    @title
+  end
+
 def author=(author_name)
   @author_name = author_name
 end
