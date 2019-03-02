@@ -10,8 +10,12 @@ end
 
 attr_accessor :author, :page_count, :genre
 
-def turn_page=(num)
+def turn_page(num)
   puts "Flipping the page #{num.strip} wow, you read fast!"
+end
+
+def turn_page
+  
 end
 
 end
