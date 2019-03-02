@@ -8,9 +8,7 @@ end
     @title
   end
 
-def author=(author_name)
-  @author_name = author_name
-end
+attr_accessor :author, :page_count, :genre, :turn_page
 
 def page_count=(num)
   @page_count = num
