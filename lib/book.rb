@@ -16,4 +16,8 @@ def genre=(sth)
   @genre = sth
 end
 
+def turn_page
+  
+end
+
 end
