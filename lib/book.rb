@@ -14,8 +14,4 @@ def turn_page(num)
   puts "Flipping the page #{num.strip} wow, you read fast!"
 end
 
-def turn_page
-
-end
-
 end
